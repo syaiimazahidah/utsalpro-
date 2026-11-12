@@ -1,4 +1,4 @@
-public class Variabel {
+public class Variabel { 
     public static void main(String[] args) {
         // Deklarasi variabel dengan tipe data yang sesuai
         // GANTI nilai di bawah dengan data diri Anda masing-masing
