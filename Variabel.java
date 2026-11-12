@@ -12,7 +12,7 @@ public class Variabel {
         // Menampilkan output
         System.out.println("Assalamu’alaikum");
         System.out.println("Izinkan saya memperkenalkan diri");
-        System.out.println("Nama Lengkap           : " + namaLengkap);
+        System.out.println("NamaLengkap           : " + namaLengkap);
         System.out.println("tempatTanggalLahir : " + tempatTanggalLahir);
         System.out.println("jenisKelamin        : " + jenisKelamin);
         System.out.println("alamatLengkap          : " + alamatLengkap);
